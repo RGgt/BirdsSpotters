@@ -1,2 +1,2 @@
-# BirdsSpotters
-A database of birds photures for bidrs spotters and a helper tool for the community.
+# RoBirdsSpotters
+A database of birds photures for romanian bidrs spotters and a helper tool for the community.
